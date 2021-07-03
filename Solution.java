@@ -1,4 +1,3 @@
-package ambigramDetection.optimized;
 
 public class Solution {
 
